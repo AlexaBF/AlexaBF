@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, My name is Alexa
-#### I am currently pursuing a B.S. in Computer Science and Technology
-![I am currently studying software engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am pursuing a B.S. in Computer Science and Technology
 
-I'm a developer interested in using technology to make a 
+I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
 
-
-- 🌱 I’m currently learning about XR technologies  
+- 📚 I’m currently studying at Monterrey Institute of Technology and Higher Education
+- 🌱 I’m currently learning about XR technologies
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexaBF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alexa-BF)  
