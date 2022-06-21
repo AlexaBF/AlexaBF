@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AlexaBF/AlexaBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, My name is Alexa
-#### I am currently studying software engineer 
+#### I am currently pursuing a B.S. in Computer Science and Technology
 ![I am currently studying software engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a developer interested in 
+I'm a developer interested in using technology to make a 
 
-Skills: KOTLIN / 
 
 - 🌱 I’m currently learning about XR technologies  
 
