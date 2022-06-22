@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, My name is Alexa
+### Hi there 👋, My name is Alexa Basurto
 #### I am pursuing a B.S. in Computer Science and Technology
 
 I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
@@ -26,6 +26,6 @@ I'm interested in creating VR and AR experiences as well as the creation of Apps
 
 # Social:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexaBF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alexa-BF)  
- 
+# 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaBF&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
