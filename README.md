@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
 
-- 📚 I’m currently studying at Monterrey Institute of Technology and Higher Education
+- 📚 I’m currently studying at Instituto Tecnológico de Monterrey
 - 🌱 I’m currently learning about XR technologies
 
 # Languages and Tools I've used the most:
