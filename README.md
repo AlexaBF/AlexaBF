@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, My name is Alexa Basurto
+# Hi👋, My name is Alexa Basurto
 #### I am pursuing a B.S. in Computer Science and Technology
 
 I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
