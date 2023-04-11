@@ -36,7 +36,3 @@ I'm interested in creating VR and AR experiences as well as the creation of Apps
 
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaBF&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#
-<div class="sketchfab-embed-wrapper"> <iframe title="Retro 8-bit Console and TV" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/419bc36736de463f8da4a56ee3fa0e70/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/retro-8-bit-console-and-tv-419bc36736de463f8da4a56ee3fa0e70?utm_medium=embed&utm_campaign=share-popup&utm_content=419bc36736de463f8da4a56ee3fa0e70" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Retro 8-bit Console and TV </a> by <a href="https://sketchfab.com/senkinsky?utm_medium=embed&utm_campaign=share-popup&utm_content=419bc36736de463f8da4a56ee3fa0e70" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Senkinsky </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=419bc36736de463f8da4a56ee3fa0e70" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
