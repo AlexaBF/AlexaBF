@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi👋, My name is Alexa Basurto
-#### I am pursuing a B.S. in Computer Science and Technology
+#### I have a Bachelor of Science in Computer Science and Technology
 
 I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
 
-- 📚 I’m currently studying at Instituto Tecnológico de Monterrey
 - 🌱 I’m currently learning about XR technologies
 
 # Languages and Tools I've used the most:
