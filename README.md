@@ -31,7 +31,7 @@ I'm interested in creating VR and AR experiences as well as the creation of Apps
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a> </p>
 
 # Social:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexaBF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alexa-BF)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexaBF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alexa-BF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@9.3.0/icons/files.svg' alt='myportfolio' height='40'>](https://alexabf.github.io/my-portfolio/)
 
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaBF&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
