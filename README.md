@@ -8,7 +8,7 @@
   <p>
   I have a strong interest in developing immersive VR and AR experiences, as well as designing applications for both iOS and Android platforms.
   
-  - 🌱 I’m currently learning about XR technologies.
+  - 🌱 I am currently expanding my knowledge in XR technologies.
   </p>
 
 </div>
