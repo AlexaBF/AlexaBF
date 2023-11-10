@@ -6,7 +6,7 @@
   
 <div>
   <p>
-  I'm interested in creating VR and AR experiences as well as the creation of Apps for IOS and Android.
+  I have a strong interest in developing immersive VR and AR experiences, as well as designing applications for both iOS and Android platforms.
   
   - 🌱 I’m currently learning about XR technologies.
   </p>
