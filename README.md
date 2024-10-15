@@ -32,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/AlexaBF" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/Alexa-BF" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://alexabf.github.io/my-portfolio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.3.0/icons/files.svg" alt="myportfolio" width="40" height="40"/></a> 
+  <a href="https://alexabf.github.io/myportfolio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.3.0/icons/files.svg" alt="myportfolio" width="40" height="40"/></a> 
 </div>
 
 
