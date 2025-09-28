@@ -14,11 +14,4 @@
 </div>
 
 
-<h1 align="center">Social:</h1>
-<div align="center">
-  <a href="https://github.com/AlexaBF" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.linkedin.com/in/Alexa-BF" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
-</div>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaBF&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
